@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Science Board
 
 You can use the [editor on GitHub](https://github.com/MatrixA/Science/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
