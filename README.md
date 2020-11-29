@@ -17,9 +17,12 @@ I will run some SLAM demo on Github. In order to realize docking, I will create 
 
 2. Object Detection
 
+2020-11-29 A BERT model for classify style of writers' article. 97% accuracy.
+
 ### Plans
 Before 2021, I think 50 abstracts are needed at least.
 In addition, I should design a method to dock efficiently.
 
 ### Ref
 Datasets:
+[ThisSite](https://matrixa.github.io/Science/)
