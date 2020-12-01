@@ -7,7 +7,7 @@ I think there are three types of papers. Following papers are all about SLAM.
 
 
 2. Method
-* Palomeras, Narcis, Antonio Penalver, Miquel Massot-Campos, Guillem Vallicrosa, Pep Lluis Negre, J. Javier Fernandez, Pere Ridao, Pedro J. Sanz, Gabriel Oliver-Codina和Albert Palomer. 《I-AUV docking and intervention in a subsea panel》. 收入 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems, 2279–85. Chicago, IL, USA: IEEE, 2014. https://doi.org/10.1109/IROS.2014.6942870.
+* 施小成, 和王晓娟. 《一种面向AUV水下对接的双目视觉测距方法》. 计算机测量与控制, 期 10 (2008年): 1460-1462+1488.
 
 
 3. Application
