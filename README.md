@@ -5,7 +5,7 @@ This board is recording my research progress of underwater SLAM, including paper
 I think there are three types of papers. Following papers are all about SLAM.
 1. Review
 * [Hidalgo, Franco, 和Thomas Bräunl. 《Review of underwater SLAM techniques》. 收入 2015 6th International Conference on Automation, Robotics and Applications (ICARA), 306–311. IEEE, 2015.](#Review-of-underwater-SLAM-techniques)||16
-* [Cadena, Cesar, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza, José Neira, Ian Reid和John J. Leonard. 《Past, present, and future of simultaneous localization and mapping: Toward the robust-perception age》. IEEE Transactions on robotics 32, 期 6 (2016年): 1309–1332.](#Past,-present,-and-future-of-simultaneous-localization-and-mapping:-Toward-the-robust-perception-age)||1438
+* [Cadena, Cesar, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza, José Neira, Ian Reid和John J. Leonard. 《Past, present, and future of simultaneous localization and mapping: Toward the robust-perception age》. IEEE Transactions on robotics 32, 期 6 (2016年): 1309–1332.](#past-present-and-future-of-simultaneous-localization-and-mapping-toward-the-robust-perception-age)||1438
 
 2. Method
 * [施小成, 和王晓娟. 《一种面向AUV水下对接的双目视觉测距方法》. 计算机测量与控制, 期 10 (2008年): 1460-1462+1488.](#一种面向AUV水下对接的双目视觉测距方法)
