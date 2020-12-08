@@ -4,13 +4,13 @@ This board is recording my research progress of underwater SLAM, including paper
 ### Papers
 I think there are three types of papers. Following papers are all about SLAM.
 1. Review
-* [Hidalgo, Franco, 和Thomas Bräunl. 《Review of underwater SLAM techniques》. 收入 2015 6th International Conference on Automation, Robotics and Applications (ICARA), 306–311. IEEE, 2015.](#Review of underwater SLAM techniques)||16
-* [Cadena, Cesar, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza, José Neira, Ian Reid和John J. Leonard. 《Past, present, and future of simultaneous localization and mapping: Toward the robust-perception age》. IEEE Transactions on robotics 32, 期 6 (2016年): 1309–1332.](#Past, present, and future of simultaneous localization and mapping: Toward the robust-perception age)||1438
+* [Hidalgo, Franco, 和Thomas Bräunl. 《Review of underwater SLAM techniques》. 收入 2015 6th International Conference on Automation, Robotics and Applications (ICARA), 306–311. IEEE, 2015.](#Review-of-underwater-SLAM-techniques)||16
+* [Cadena, Cesar, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza, José Neira, Ian Reid和John J. Leonard. 《Past, present, and future of simultaneous localization and mapping: Toward the robust-perception age》. IEEE Transactions on robotics 32, 期 6 (2016年): 1309–1332.](#Past,-present,-and-future-of-simultaneous-localization-and-mapping:-Toward-the-robust-perception-age)||1438
 
 2. Method
 * [施小成, 和王晓娟. 《一种面向AUV水下对接的双目视觉测距方法》. 计算机测量与控制, 期 10 (2008年): 1460-1462+1488.](#一种面向AUV水下对接的双目视觉测距方法)
 * [张勋, 肖遥和李凡贡. 《基于测距声纳与光视觉的水下目标定位方法研究》. 船舶工程 38, 期 05 (2016年): 74–78.](#基于测距声纳与光视觉的水下目标定位方法研究)
-* [Mallios, Angelos, Pere Ridao, David Ribas和Emili Hernández. 《Scan matching SLAM in underwater environments》. Autonomous Robots 36, 期 3 (2014年): 181–198.](#Scan matching SLAM in underwater environments)||63
+* [Mallios, Angelos, Pere Ridao, David Ribas和Emili Hernández. 《Scan matching SLAM in underwater environments》. Autonomous Robots 36, 期 3 (2014年): 181–198.](#Scan-matching-SLAM-in-underwater-environments)||63
 
 
 
