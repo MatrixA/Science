@@ -1,3 +1,4 @@
+![wechat](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMyUniqueKnowledge%2FQSL0O2TEso.png?alt=media&token=2d8a9334-4d67-47a4-8b0c-c7ef6e59e270)
 ## Welcome to My Science Board
 This board is recording my research progress of underwater SLAM, including papers I read, projects I run and plans I made.
 
