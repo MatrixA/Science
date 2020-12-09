@@ -11,7 +11,7 @@ I think there are three types of papers. Following papers are all about SLAM.
 * [施小成, 和王晓娟. 《一种面向AUV水下对接的双目视觉测距方法》. 计算机测量与控制, 期 10 (2008年): 1460-1462+1488.](#一种面向AUV水下对接的双目视觉测距方法)
 * [张勋, 肖遥和李凡贡. 《基于测距声纳与光视觉的水下目标定位方法研究》. 船舶工程 38, 期 05 (2016年): 74–78.](#基于测距声纳与光视觉的水下目标定位方法研究)
 * [Mallios, Angelos, Pere Ridao, David Ribas和Emili Hernández. 《Scan matching SLAM in underwater environments》. Autonomous Robots 36, 期 3 (2014年): 181–198.](#scan-matching-slam-in-underwater-environments)||63
-* [Roznere, Monika, 和Alberto Quattrini Li. 《underwater-monocular-image-depth-estimation-using-single-beam-echosounder》, 不详.](#)
+* [Roznere, Monika, 和Alberto Quattrini Li. 《Underwater Monocular Image Depth Estimation using Single-beam Echosounder》, 不详.](#underwater-monocular-image-depth-estimation-using-single-beam-echosounder)
 
 
 
@@ -56,7 +56,7 @@ This paper presents a review of the approaches used in state-of-the-art SLAM tec
 ## Past, present, and future of simultaneous localization and mapping: Toward the robust-perception age
 We survey the current state of SLAM and consider future directions.  
 [返回board](#papers)
-## Scan matching SLAM in underwater envirionments
+## Scan matching SLAM in underwater environments
 This paper proposes a pose-based algorithm to solve the full simutaneously localization and mapping problem for AUVs in unknown and possibaly unstructured environments.  
 [返回board](#papers)
 ## Underwater Monocular Image Depth Estimation using Single-beam Echosounder
