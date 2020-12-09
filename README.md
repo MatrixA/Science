@@ -60,6 +60,6 @@ We survey the current state of SLAM and consider future directions.
 This paper proposes a pose-based algorithm to solve the full simutaneously localization and mapping problem for AUVs in unknown and possibaly unstructured environments.  
 [返回board](#papers)
 ## Underwater Monocular Image Depth Estimation using Single-beam Echosounder
-论文的主要贡献在于提供了标定声纳测深仪和相机的标定方法，并且用于校正单目相机的深度估计，这一方法还能用于颜色校正。
-可学习的点主要在于相机和深度仪融合的方式：最小化测量值与估计值的误差来获得位姿，再计算校正后的深度。
+论文的主要贡献在于提供了标定声纳测深仪和相机的标定方法，并且用于校正单目相机的深度估计，这一方法还能用于颜色校正。  
+可学习的点主要在于相机和深度仪融合的方式：最小化测量值与估计值的误差来获得位姿，再计算校正后的深度。  
 [返回board](#papers)
