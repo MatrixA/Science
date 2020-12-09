@@ -11,6 +11,7 @@ I think there are three types of papers. Following papers are all about SLAM.
 * [施小成, 和王晓娟. 《一种面向AUV水下对接的双目视觉测距方法》. 计算机测量与控制, 期 10 (2008年): 1460-1462+1488.](#一种面向AUV水下对接的双目视觉测距方法)
 * [张勋, 肖遥和李凡贡. 《基于测距声纳与光视觉的水下目标定位方法研究》. 船舶工程 38, 期 05 (2016年): 74–78.](#基于测距声纳与光视觉的水下目标定位方法研究)
 * [Mallios, Angelos, Pere Ridao, David Ribas和Emili Hernández. 《Scan matching SLAM in underwater environments》. Autonomous Robots 36, 期 3 (2014年): 181–198.](#Scan-matching-SLAM-in-underwater-environments)||63
+* [Roznere, Monika, 和Alberto Quattrini Li. 《Underwater-Monocular-Image-Depth-Estimation-using-Single-beam-Echosounder》, 不详.](#)
 
 
 
@@ -57,4 +58,8 @@ We survey the current state of SLAM and consider future directions.
 [返回board](#papers)
 ## Scan matching SLAM in underwater envirionments
 This paper proposes a pose-based algorithm to solve the full simutaneously localization and mapping problem for AUVs in unknown and possibaly unstructured environments.  
+[返回board](#papers)
+## Underwater Monocular Image Depth Estimation using Single-beam Echosounder
+论文的主要贡献在于提供了标定声纳测深仪和相机的标定方法，并且用于校正单目相机的深度估计，这一方法还能用于颜色校正。
+可学习的点主要在于相机和深度仪融合的方式：最小化测量值与估计值的误差来获得位姿，再计算校正后的深度。
 [返回board](#papers)
