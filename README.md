@@ -13,6 +13,7 @@ I think there are three types of papers. Following papers are all about SLAM.
 * [张勋, 肖遥和李凡贡. 《基于测距声纳与光视觉的水下目标定位方法研究》. 船舶工程 38, 期 05 (2016年): 74–78.](#基于测距声纳与光视觉的水下目标定位方法研究)
 * [Mallios, Angelos, Pere Ridao, David Ribas和Emili Hernández. 《Scan matching SLAM in underwater environments》. Autonomous Robots 36, 期 3 (2014年): 181–198.](#scan-matching-slam-in-underwater-environments)||63
 * [Roznere, Monika, 和Alberto Quattrini Li. 《Underwater Monocular Image Depth Estimation using Single-beam Echosounder》, 不详.](#underwater-monocular-image-depth-estimation-using-single-beam-echosounder)
+* [Zhang, Kaixiang, Jian Chen和Bingxi Jia. 《Asymptotic Moving Object Tracking with Trajectory Tracking Extension: A Homography-Based Approach: HOMOGRAPHY-BASED MOVING OBJECT TRACKING》. International Journal of Robust and Nonlinear Control 27, 期 18 (2017年12月1日): 4664–85. https://doi.org/10.1002/rnc.3823.](#Asymptotic-Moving-Object-Tracking-with Trajectory-Tracking-Extension:-A-Homography-Based-Approach-HOMOGRAPHY-BASED-MOVING-OBJECT-TRACKING)
 
 
 
@@ -63,4 +64,10 @@ This paper proposes a pose-based algorithm to solve the full simutaneously local
 ## Underwater Monocular Image Depth Estimation using Single-beam Echosounder
 论文的主要贡献在于提供了标定声纳测深仪和相机的标定方法，并且用于校正单目相机的深度估计，这一方法还能用于颜色校正。  
 可学习的点主要在于相机和深度仪融合的方式：最小化测量值与估计值的误差来获得位姿，再计算校正后的深度。  
+[返回board](#papers)
+## Handbook of Marine Hydrodynamics and Motion Control
+包含涉水载具的各种模型，运动学、流体静力学、流体动力学等。
+[返回board](#papers)
+## Asymptotic Moving Object Tracking with Trajectory Tracking Extension: A Homography-Based Approach: HOMOGRAPHY-BASED MOVING OBJECT TRACKING
+设计了一个基于单应矩阵的控制器，然后设计了开环和闭环误差并利用RISE反馈框架输出了相应控制信号。
 [返回board](#papers)
