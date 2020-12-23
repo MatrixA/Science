@@ -13,7 +13,7 @@ I think there are three types of papers. Following papers are all about SLAM.
 * [张勋, 肖遥和李凡贡. 《基于测距声纳与光视觉的水下目标定位方法研究》. 船舶工程 38, 期 05 (2016年): 74–78.](#基于测距声纳与光视觉的水下目标定位方法研究)
 * [Mallios, Angelos, Pere Ridao, David Ribas和Emili Hernández. 《Scan matching SLAM in underwater environments》. Autonomous Robots 36, 期 3 (2014年): 181–198.](#scan-matching-slam-in-underwater-environments)||63
 * [Roznere, Monika, 和Alberto Quattrini Li. 《Underwater Monocular Image Depth Estimation using Single-beam Echosounder》, 不详.](#underwater-monocular-image-depth-estimation-using-single-beam-echosounder)
-* [Zhang, Kaixiang, Jian Chen和Bingxi Jia. 《Asymptotic Moving Object Tracking with Trajectory Tracking Extension: A Homography-Based Approach: HOMOGRAPHY-BASED MOVING OBJECT TRACKING》. International Journal of Robust and Nonlinear Control 27, 期 18 (2017年12月1日): 4664–85. https://doi.org/10.1002/rnc.3823.](#Asymptotic-Moving-Object-Tracking-with Trajectory-Tracking-Extension:-A-Homography-Based-Approach-HOMOGRAPHY-BASED-MOVING-OBJECT-TRACKING)
+* [Zhang, Kaixiang, Jian Chen和Bingxi Jia. 《Asymptotic Moving Object Tracking with Trajectory Tracking Extension: A Homography-Based Approach: HOMOGRAPHY-BASED MOVING OBJECT TRACKING》. International Journal of Robust and Nonlinear Control 27, 期 18 (2017年12月1日): 4664–85. https://doi.org/10.1002/rnc.3823.](#Asymptotic-Moving-Object-Tracking-with Trajectory-Tracking-Extension-A-Homography-Based-Approach-HOMOGRAPHY-BASED-MOVING-OBJECT-TRACKING)
 
 
 
